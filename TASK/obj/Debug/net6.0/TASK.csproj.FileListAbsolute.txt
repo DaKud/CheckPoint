@@ -1,0 +1,15 @@
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\bin\Debug\net6.0\TASK.exe
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\bin\Debug\net6.0\TASK.deps.json
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\bin\Debug\net6.0\TASK.runtimeconfig.json
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\bin\Debug\net6.0\TASK.dll
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\bin\Debug\net6.0\TASK.pdb
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\obj\Debug\net6.0\TASK.csproj.AssemblyReference.cache
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\obj\Debug\net6.0\TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\obj\Debug\net6.0\TASK.AssemblyInfoInputs.cache
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\obj\Debug\net6.0\TASK.AssemblyInfo.cs
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\obj\Debug\net6.0\TASK.csproj.CoreCompileInputs.cache
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\obj\Debug\net6.0\TASK.dll
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\obj\Debug\net6.0\refint\TASK.dll
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\obj\Debug\net6.0\TASK.pdb
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\obj\Debug\net6.0\TASK.genruntimeconfig.cache
+C:\Users\ДашаВах\Desktop\Repositories\CheckPoint\TASK\obj\Debug\net6.0\ref\TASK.dll
